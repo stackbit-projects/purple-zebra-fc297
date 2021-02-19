@@ -8,7 +8,7 @@ categories:
   - src/data/categories/category-l3nus3ivw.json
 tags:
   - elevador
-  - Netlify
+  - mecanico
 image: images/5.png
 image_alt: Post 5 placeholder image
 excerpt: >-
