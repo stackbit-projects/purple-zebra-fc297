@@ -5,6 +5,7 @@ author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
   - src/data/categories/category-vxy35r2s7.json
+  - src/data/categories/category-l3nus3ivw.json
 tags:
   - Stackbit
   - Netlify
