@@ -7,7 +7,7 @@ categories:
   - src/data/categories/category-vxy35r2s7.json
   - src/data/categories/category-l3nus3ivw.json
 tags:
-  - Stackbit
+  - elevador
   - Netlify
 image: images/5.png
 image_alt: Post 5 placeholder image
