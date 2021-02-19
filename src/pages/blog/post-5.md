@@ -9,7 +9,7 @@ categories:
 tags:
   - elevador
   - mecanico
-  - '[object Object]lico'
+  - hidaulico
   - '0': l
     '1': o
     '2': r
